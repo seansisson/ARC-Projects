@@ -1,0 +1,14 @@
+
+	/* V2
+	$patterns = array(
+			array('user' => '', 'regex' => '#\<cas:user\>(.*?)\</cas:user\>#'),
+			array('display_name' => '', 'regex' => '#\<cas:DISPLAY_NAME\>(.*?)\</cas:DISPLAY_NAME\>#'),	
+			array('udc_identifier' => '', 'regex' => '#\<cas:UDC_IDENTIFIER\>(.*?)\</cas:UDC_IDENTIFIER\>#'),
+			array('given_name' => '', 'regex' => '#\<cas:GIVEN_NAME\>(.*?)\</cas:GIVEN_NAME\>#'),
+			array('psuuid' => '', 'regex' => '#\<cas:PSUUID\>(.*?)\</cas:PSUUID\>#'),
+			array('uid' => '', 'regex' => '#\<cas:UID\>(.*?)\</cas:UID\>#'),
+			array('sn' => '', 'regex' => '#\<cas:SN\>(.*?)\</cas:SN\>#'),
+			array('mail' => '', 'regex' => '#\<cas:MAIL\>(.*?)\</cas:MAIL\>#'),
+			array('edu_person_affilications' => '', 'regex' => '#\<cas:EDU_PERSON_AFFILIATIONS\>(.*?)\</cas:EDU_PERSON_AFFILIATIONS\>#'),
+	);
+	*/
